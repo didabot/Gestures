@@ -11,10 +11,6 @@
         "README.md",
         "Gestures.blocks",
         "Gestures.ts",
-        "_locales/pxt-Gestures-jsdoc-strings.json",
-        "_locales/pxt-Gestures-strings.json",
-        "_locales/zh-CN/pxt-Gestures-strings.json",
-        "_locales/zh-CN/pxt-Gestures-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
