@@ -11,5 +11,5 @@
   "Gestures.GestureType.Wave|block": "Wave",
   "Gestures.onGesture|block": "Gesture sensor IIC port is %gesture",
   "Gestures|block": "Gestures",
-  "{id:category}Gestures": "Gestures",
+  "{id:category}Gestures": "Gestures"
 }
