@@ -1,6 +1,6 @@
 
 
-//% weight=5 color=#9900CC icon="\uf53b"
+//% color=#FF8C00  icon="\uf110" block="Gestures" blockId="Gestures"
 namespace Gestures {
     ////////////////////////paj7620//////////////////////
     let gesture_first_init = true
@@ -141,7 +141,6 @@ namespace Gestures {
     */
     //% blockId= gesture_create_event block="Gesture sensor IIC port is %gesture"
     //% gesture.fieldEditor="gridpicker" gesture.fieldOptions.columns=3
-    //% subcategory=Sensor group="IIC Port"
     export function onGesture(gesture: GestureType, handler: () => void) {
         control.onEvent(gestureEventId, gesture, handler);
         if(gesture_first_init){
