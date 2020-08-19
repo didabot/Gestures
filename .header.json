@@ -1,0 +1,20 @@
+{
+    "target": "microbit",
+    "targetVersion": "3.0.22",
+    "name": "Gestures",
+    "meta": {},
+    "editor": "blocksprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "fb07aae8-311b-4df3-dba9-3fd83bde04ad",
+    "recentUse": 1597802765,
+    "modificationTime": 1597802765,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "Gestures",
+    "githubCurrent": false,
+    "saveId": null
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gestures",
+    "version": "0.0.0",
+    "description": "**",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "Gestures.blocks",
+        "Gestures.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
