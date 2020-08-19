@@ -1,6 +1,0 @@
-{
-  "Gestures.GestureType": "Gestures",
-  "Gestures.onGesture": "Do something when a gesture is detected",
-  "Gestures.onGesture|param|gesture": "type of gesture to detect",
-  "Gestures.onGesture|param|handler": "code to run",
-}
