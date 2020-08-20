@@ -9,7 +9,5 @@
   "Gestures.GestureType.Right|block": "向右",
   "Gestures.GestureType.Up|block": "向上",
   "Gestures.GestureType.Wave|block": "挥手",
-  "Gestures.onGesture|block": "手势识别传感器 IIC接口 识别到 %gesture",
-  "Gestures|block": "手势识别",
-  "{id:category}Gestures": "手势识别"
+  "Gestures.onGesture|block": "手势识别传感器 IIC接口 识别到 %gesture"
 }
