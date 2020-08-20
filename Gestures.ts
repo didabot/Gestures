@@ -1,6 +1,6 @@
 
 
-//% color=#FF8C00  icon="\uf110" block="Gestures" blockId="Gestures"
+//% color=#FF8C00  icon="\uf110" weight=20
 namespace Gestures {
     ////////////////////////paj7620//////////////////////
     let gesture_first_init = true
