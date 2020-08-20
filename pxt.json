@@ -4,20 +4,16 @@
     "description": "**",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
         "Gestures.ts",
-        "_locales/zh-CN/pxt-Gestures-strings.json"
+        "_locales/zh-cn/Gestures-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": true,
-    "supportedTargets": [
-        "microbit"
-    ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
