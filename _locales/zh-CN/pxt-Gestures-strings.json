@@ -5,7 +5,7 @@
   "Gestures.GestureType.Down|block": "向下",
   "Gestures.GestureType.Forward|block": "向前",
   "Gestures.GestureType.Left|block": "向左",
-  "Gestures.GestureType.None|block": "无",
+  "Gestures.GestureType.NONE|block": "无",
   "Gestures.GestureType.Right|block": "向右",
   "Gestures.GestureType.Up|block": "向上",
   "Gestures.GestureType.Wave|block": "挥手",
