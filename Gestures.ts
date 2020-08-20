@@ -39,7 +39,7 @@ namespace Gestures {
     *  Gestures
     */
     export enum GestureType {
-        //% block="None"
+        //% blockId="NONE" block="None"
         None = 0,
         //% block="Right"
         Right = 1,
