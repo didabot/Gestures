@@ -11,7 +11,7 @@
         "README.md",
         "Gestures.blocks",
         "Gestures.ts",
-        "_locales/zh-CN/pxt-Gestures-strings.json",
+        "_locales/zh-CN/pxt-Gestures-strings.json"
     ],
     "testFiles": [
         "test.ts"
